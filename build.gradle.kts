@@ -50,7 +50,7 @@ dependencies {
 
   implementation("com.fasterxml.jackson.core:jackson-databind:2.12.0")
   implementation("org.apache.commons:commons-compress:1.18")
-  implementation("ch.qos.logback:logback-classic:1.2.3")
+  implementation("ch.qos.logback:logback-classic:1.2.9")
   implementation("io.github.jponge:vertx-boot:1.2.1")
 
   testImplementation("org.assertj:assertj-core:3.10.0")
